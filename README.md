@@ -30,6 +30,18 @@ helps turn everyday operations into clear, manageable, and intelligent experienc
 - Delivering a simple and approachable user experience
 - Building dependable solutions that can grow with changing needs
 
+## Platform Components
+
+Hooshyar combines a central Backend and Frontend with two device models:
+network-connected standalone firmware and peripherals connected through
+an Edge gateway.
+
+- **Backend:** Device identity, telemetry, commands, and workflows
+- **Frontend:** Persian-first monitoring and automation interface
+- **Edge:** Local hardware integration and gateway connectivity
+- **Firmware:** Standalone network-connected microcontrollers
+- **Peripheral-Firmware:** Serial-connected boards managed through Edge
+
 ## Where Hooshyar Can Help
 
 Hooshyar can support a wide range of use cases, including:

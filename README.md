@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Hooshyar-IO/.github/main/assets/branding/hooshyar-icon.svg" alt="Hooshyar logo" width="112">
+
 # Hooshyar
 
 ### Smarter spaces. Simpler automation.

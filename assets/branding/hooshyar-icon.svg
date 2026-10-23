@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 1000 1000" width="1000" height="1000" role="img" aria-labelledby="title desc">
+<title id="title">Hooshyar V2 application icon</title><desc id="desc">Hooshyar V2 geometric H with integrated automation flow.</desc>
+<g id="icon-background" inkscape:groupmode="layer" inkscape:label="Rounded Square" ><rect x="54" y="54" width="892" height="892" rx="206" fill="#071D2B"/></g><g id="icon-symbol" inkscape:groupmode="layer" inkscape:label="Icon H" transform="translate(40 45) scale(.92)"><g id="symbol" aria-label="Hooshyar H symbol">
+<g id="letter-h" fill="#F8FAFC"><rect x="200" y="200" width="150" height="500" rx="42"/><rect x="650" y="200" width="150" height="500" rx="42"/></g>
+<g id="automation-flow" fill="none" stroke="#14B8A6" stroke-width="112" stroke-linecap="round" stroke-linejoin="round"><path d="M292 505 C407 505 466 420 569 420 C626 420 669 449 708 473"/></g>
+<g id="connection-nodes"><circle cx="292" cy="505" r="19" fill="#F8FAFC"/><circle cx="708" cy="473" r="27" fill="#F8FAFC"/></g>
+</g></g>
+</svg>

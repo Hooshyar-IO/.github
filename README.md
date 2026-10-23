@@ -38,8 +38,11 @@ an Edge gateway.
 
 - **Backend:** Device identity, telemetry, commands, and workflows
 - **Frontend:** Persian-first monitoring and automation interface
-- **Edge:** Local hardware integration and gateway connectivity
-- **Firmware:** Standalone network-connected microcontrollers
+- **Edge:** Deployable Python gateway and hardware configuration
+- **HooshyarEdge:** Reusable Python gateway runtime
+- **HooshyarDevice:** Reusable ESP8266 device runtime
+- **Firmware:** Starter template for standalone network-connected devices
+- **KoalaDev:** Reference ESP8266 device application
 - **Peripheral-Firmware:** Serial-connected boards managed through Edge
 
 ## Where Hooshyar Can Help
